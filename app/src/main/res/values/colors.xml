@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="firstFragmentColor">#24375f</color>
+    <color name="secondFragmentColor">#594662</color>
+    <color name="thirdFragmentColor">#ebaca5</color>
+    <color name="fourthFragmentColor">#beb9c0</color>
+    <color name="fifthFragmentColor">#9da5bb</color>
+    <color name="sixthFragmentColor">#99b3ce</color>
+    <color name="white">#ffffff</color>
+
+</resources>
