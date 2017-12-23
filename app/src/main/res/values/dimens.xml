@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="titleSize">20dp</dimen>
+    <dimen name="titleSize">23dp</dimen>
     <dimen name="card_padding">35dp</dimen>
+    <dimen name="description_text_size">13dp</dimen>
+    <dimen name="collection_title_size">19dp</dimen>
 </resources>

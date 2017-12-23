@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Collections</string>
+    <string name="to_collection_bt_text">VISIT COLLECTION</string>
 </resources>
